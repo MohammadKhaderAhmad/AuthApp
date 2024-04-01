@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119114783246",
+    "project_id": "authproject-ff750",
+    "storage_bucket": "authproject-ff750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119114783246:android:029836abf1ef5c215cfa5f",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7On-235RMyHG_NqGYfnNnzNvsjVex40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119114783246:android:5fbf067e56f728205cfa5f",
+        "android_client_info": {
+          "package_name": "com.example.holyquran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7On-235RMyHG_NqGYfnNnzNvsjVex40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
